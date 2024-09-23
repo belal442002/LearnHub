@@ -12,5 +12,6 @@ namespace LearnHub.API.Models.Domain
 
         // Navigation property
         public virtual Course Course { get; set; }
+        public virtual ICollection<QuestionBank> Questions { get; set; }
     }
 }

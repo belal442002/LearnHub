@@ -33,6 +33,18 @@ namespace LearnHub.API.Repositories
             return roles.ToList();
         }
 
+        public async Task<IdentityUser?> GetUserByIdAsync(string userId)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+            return user;
+        }
+
+        public async Task<IdentityResult> ChangePasswordAsync(IdentityUser user, string currentPassword, string newPassword)
+        {
+            var result = await _userManager.ChangePasswordAsync(user, currentPassword, newPassword);
+            return result;
+        }
+
         public async Task<IdentityUser?> UserExistAsync(LoginRequestDto loginRequest)
         {
             var user = await _userManager.FindByEmailAsync(loginRequest.Email);
@@ -47,5 +59,22 @@ namespace LearnHub.API.Repositories
             return null;
         }
 
+        public async Task<string?> GenerateTokenForResetPasswordAsync(IdentityUser user)
+        {
+            return await _userManager.GeneratePasswordResetTokenAsync(user);
+        }
+
+        public async Task<string?> GetRoleByUserAsync(IdentityUser user)
+        {
+            var roles = await _userManager.GetRolesAsync(user);
+            if (roles == null)
+                return null;
+            return roles[0];
+        }
+
+        public async Task<IdentityResult> ResetPasswordAsync(IdentityUser user, string token, string newPassword)
+        {
+            return await _userManager.ResetPasswordAsync(user, token, newPassword);
+        }
     }
 }

@@ -6,7 +6,7 @@ namespace LearnHub.API.CustomValidation
     {
         public CustomRoleValidationAttribute()
         {
-            var defaultMessage = "Role must be Instructor or Student";
+            var defaultMessage = "Roles must be Instructor, Student or Parent";
             ErrorMessage ??= defaultMessage;
         }
 
@@ -17,9 +17,13 @@ namespace LearnHub.API.CustomValidation
             {
                 var student = Helper.Roles.Student.ToString();
                 var instructor = Helper.Roles.Instructor.ToString();
-                if (!role.Equals(student, StringComparison.OrdinalIgnoreCase) && !role.Equals(instructor, StringComparison.OrdinalIgnoreCase))
+                var parent = Helper.Roles.Parent.ToString();
+                
+                if (!role.Equals(student, StringComparison.OrdinalIgnoreCase) && 
+                    !role.Equals(instructor, StringComparison.OrdinalIgnoreCase) &&
+                    !role.Equals(parent, StringComparison.OrdinalIgnoreCase))
                 {
-                    return new ValidationResult("Role must be Instructor or Student");
+                    return new ValidationResult("Roles must be Instructor, Student or Parent");
                 }
             }
             else

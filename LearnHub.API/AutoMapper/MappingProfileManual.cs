@@ -1,5 +1,7 @@
 ﻿using LearnHub.API.Helper;
 using LearnHub.API.Models.Domain;
+using LearnHub.API.Models.Dto.QBAnswersDto;
+using LearnHub.API.Models.Dto.QuestionBankDto;
 using LearnHup.Models.Dto.AuthDto;
 using Microsoft.AspNetCore.Identity;
 using System.Runtime.CompilerServices;
@@ -35,6 +37,18 @@ namespace LearnHub.API.AutoMapper
             };
         }
 
+        //new
+        public IdentityUser GetParentUserFromRegister(RegisterRequestDto registerRequest)
+        {
+
+            return new IdentityUser
+            {
+                UserName = registerRequest.Name.Replace(" ", "") + "@LearnHub.com",
+                Email = registerRequest.Name.Replace(" ", "") + "@LearnHub.com",
+                PhoneNumber = registerRequest.ContactNumber
+            };
+        }
+
         public Student GetStudentFromUser(IdentityUser user, RegisterRequestDto registerRequest)
         {
             return new Student
@@ -49,6 +63,17 @@ namespace LearnHub.API.AutoMapper
         public Instructor GetInstructorFromUser(IdentityUser user, RegisterRequestDto registerRequest)
         {
             return new Instructor
+            {
+                AccountId = user.Id,
+                NationalId = registerRequest.NationalId,
+                Name = registerRequest.Name
+            };
+        }
+
+        //new
+        public Parent GetParentFromUser(IdentityUser user, RegisterRequestDto registerRequest)
+        {
+            return new Parent
             {
                 AccountId = user.Id,
                 NationalId = registerRequest.NationalId,

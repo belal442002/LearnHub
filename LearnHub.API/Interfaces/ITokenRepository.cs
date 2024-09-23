@@ -4,6 +4,6 @@ namespace LearnHub.API.Interfaces
 {
     public interface ITokenRepository
     {
-        String GenerateJwtToken(IdentityUser user, List<String> roles);
+        Task<String> GenerateJwtToken(IdentityUser user, List<String> roles);
     }
 }

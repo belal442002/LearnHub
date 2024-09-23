@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\materials\\.Net\\Projects\\LearnHub\\LearnHub\\LearnHub.API\\LearnHub.API.csproj": {}
+    "D:\\FCAI\\Graduation Project\\p\\local and cloud\\LearnHub-main\\LearnHub.API\\LearnHub.API.csproj": {}
   },
   "projects": {
-    "E:\\materials\\.Net\\Projects\\LearnHub\\LearnHub\\LearnHub.API\\LearnHub.API.csproj": {
+    "D:\\FCAI\\Graduation Project\\p\\local and cloud\\LearnHub-main\\LearnHub.API\\LearnHub.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\materials\\.Net\\Projects\\LearnHub\\LearnHub\\LearnHub.API\\LearnHub.API.csproj",
+        "projectUniqueName": "D:\\FCAI\\Graduation Project\\p\\local and cloud\\LearnHub-main\\LearnHub.API\\LearnHub.API.csproj",
         "projectName": "LearnHub.API",
-        "projectPath": "E:\\materials\\.Net\\Projects\\LearnHub\\LearnHub\\LearnHub.API\\LearnHub.API.csproj",
-        "packagesPath": "C:\\Users\\3com\\.nuget\\packages\\",
-        "outputPath": "E:\\materials\\.Net\\Projects\\LearnHub\\LearnHub\\LearnHub.API\\obj\\",
+        "projectPath": "D:\\FCAI\\Graduation Project\\p\\local and cloud\\LearnHub-main\\LearnHub.API\\LearnHub.API.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "D:\\FCAI\\Graduation Project\\p\\local and cloud\\LearnHub-main\\LearnHub.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\3com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -77,6 +81,10 @@
               "target": "Package",
               "version": "[7.5.1, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -84,6 +92,14 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.5.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -105,7 +121,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

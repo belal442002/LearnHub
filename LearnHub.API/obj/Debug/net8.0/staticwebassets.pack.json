@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FCAI\\Graduation Project\\p\\local\\LearnHub-main\\LearnHub.API\\wwwroot\\Uploads\\3c7f6026-a2c6-41f1-b589-b759ac5171b1_Screenshot 2024-07-03 210452.png",
+      "PackagePath": "staticwebassets\\Uploads\\3c7f6026-a2c6-41f1-b589-b759ac5171b1_Screenshot 2024-07-03 210452.png"
+    },
+    {
+      "Id": "D:\\FCAI\\Graduation Project\\p\\local\\LearnHub-main\\LearnHub.API\\wwwroot\\Uploads\\afbc7afb-2cc7-418e-9b50-676d4ced2983_Lecture 2.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\afbc7afb-2cc7-418e-9b50-676d4ced2983_Lecture 2.pdf"
+    },
+    {
+      "Id": "D:\\FCAI\\Graduation Project\\p\\local\\LearnHub-main\\LearnHub.API\\wwwroot\\Uploads\\d07e6728-8f43-4fc3-a979-16bf39c1228b_6. how flutter works.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\d07e6728-8f43-4fc3-a979-16bf39c1228b_6. how flutter works.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LearnHub.API.props",
+      "PackagePath": "build\\LearnHub.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LearnHub.API.props",
+      "PackagePath": "buildMultiTargeting\\LearnHub.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LearnHub.API.props",
+      "PackagePath": "buildTransitive\\LearnHub.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

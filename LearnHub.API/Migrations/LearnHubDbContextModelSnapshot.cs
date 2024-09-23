@@ -22,6 +22,258 @@ namespace LearnHub.API.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Announcement", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("DateOfAnnouncement")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("InstructorId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Text")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("InstructorId");
+
+                    b.ToTable("Announcement");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Assignment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Active_YN")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("AssignmentConfigId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("AssignmentNumber")
+                        .HasColumnType("int");
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AssignmentConfigId");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("Assignment");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.AssignmentConfig", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("EndDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("MaxScore")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("StartDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Type")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AssignmentConfig");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.AssignmentConfigTopic", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("AssignmentConfigId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("DifficultyId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("NumberOfQuestions")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TopicId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AssignmentConfigId");
+
+                    b.HasIndex("DifficultyId");
+
+                    b.HasIndex("TopicId");
+
+                    b.ToTable("AssignmentConfigTopic");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.AssignmentQuestion", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Active_YN")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("AssignmentId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ChoiceA")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ChoiceB")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ChoiceC")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ChoiceD")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CorrectAnswer")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("QuestionId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("StudentAnswer")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AssignmentId");
+
+                    b.HasIndex("QuestionId");
+
+                    b.HasIndex("StudentId");
+
+                    b.ToTable("AssignmentQuestion");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Course", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("CourseCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Course");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Difficulty", b =>
+                {
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Difficulty");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Hard"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Medium"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Easy"
+                        });
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Evaluation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Active_YN")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("AssignmentId")
+                        .HasColumnType("int");
+
+                    b.Property<double>("Grade")
+                        .HasColumnType("float");
+
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AssignmentId");
+
+                    b.HasIndex("StudentId");
+
+                    b.ToTable("Evaluation");
+                });
+
             modelBuilder.Entity("LearnHub.API.Models.Domain.Instructor", b =>
                 {
                     b.Property<int>("Id")
@@ -37,8 +289,14 @@ namespace LearnHub.API.Migrations
                     b.Property<bool>("Active_YN")
                         .HasColumnType("bit");
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("DateOfJoin")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -55,13 +313,215 @@ namespace LearnHub.API.Migrations
                     b.ToTable("Instructor");
                 });
 
-            modelBuilder.Entity("LearnHub.API.Models.Domain.Semester", b =>
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Material", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("MaterialLink")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MaterialPath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("MaterialTypeId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("MaterilaTitle")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("MaterialTypeId");
+
+                    b.ToTable("Material");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.MaterialType", b =>
+                {
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("MaterialType");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 2001,
+                            Name = "RecordedLectures"
+                        },
+                        new
+                        {
+                            Id = 2002,
+                            Name = "LectureSlides"
+                        },
+                        new
+                        {
+                            Id = 2003,
+                            Name = "RecordedLabs"
+                        },
+                        new
+                        {
+                            Id = 2004,
+                            Name = "LabSlides"
+                        });
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Parent", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("AccountId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<bool>("Active_YN")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NationalId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AccountId");
+
+                    b.ToTable("Parent");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QBAnswers", b =>
+                {
+                    b.Property<int>("AnswerId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AnswerId"));
+
+                    b.Property<string>("AnswerText")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("Answer_TF")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("QuestionId")
+                        .HasColumnType("int");
+
+                    b.HasKey("AnswerId");
+
+                    b.HasIndex("QuestionId");
+
+                    b.ToTable("QBAnswers");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QuestionBank", b =>
+                {
+                    b.Property<int>("QuestionId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("QuestionId"));
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("DifficultyId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("InstructorId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("QuestionText")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("QuestionTypeId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TopicId")
+                        .HasColumnType("int");
+
+                    b.HasKey("QuestionId");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("DifficultyId");
+
+                    b.HasIndex("InstructorId");
+
+                    b.HasIndex("QuestionTypeId");
+
+                    b.HasIndex("TopicId");
+
+                    b.ToTable("QuestionBank");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QuestionType", b =>
+                {
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("QuestionType");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1001,
+                            Name = "MultipleChoice"
+                        },
+                        new
+                        {
+                            Id = 1002,
+                            Name = "Essay"
+                        },
+                        new
+                        {
+                            Id = 1003,
+                            Name = "TrueOrFalse"
+                        });
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Semester", b =>
+                {
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
 
                     b.Property<string>("SemesterName")
                         .IsRequired()
@@ -101,8 +561,14 @@ namespace LearnHub.API.Migrations
                     b.Property<bool>("Active_YN")
                         .HasColumnType("bit");
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("DateOfJoin")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -112,11 +578,103 @@ namespace LearnHub.API.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("ParentId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("AccountId");
 
+                    b.HasIndex("ParentId");
+
                     b.ToTable("Student");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.StudentCourse", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("SemesterId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Year")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("SemesterId");
+
+                    b.HasIndex("StudentId");
+
+                    b.ToTable("StudentCourse");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Teach", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("InstructorId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SemesterId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Year")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("InstructorId");
+
+                    b.HasIndex("SemesterId");
+
+                    b.ToTable("Teach");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Topic", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CourseId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("TopicName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("Topic");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -166,6 +724,13 @@ namespace LearnHub.API.Migrations
                             ConcurrencyStamp = "b985b240-2dce-4365-bcf5-c4c792b9076b",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
+                        },
+                        new
+                        {
+                            Id = "3125b3a6-1b98-4d83-b473-8a6f4dd73f53",
+                            ConcurrencyStamp = "3125b3a6-1b98-4d83-b473-8a6f4dd73f53",
+                            Name = "Parent",
+                            NormalizedName = "PARENT"
                         });
                 });
 
@@ -264,15 +829,15 @@ namespace LearnHub.API.Migrations
                             Id = "5873cd1d-8878-41c8-9b4c-130989a7355c",
                             AccessFailedCount = 0,
                             ConcurrencyStamp = "5873cd1d-8878-41c8-9b4c-130989a7355c",
-                            Email = "admin@LearnHup.com",
+                            Email = "admin@LearnHub.com",
                             EmailConfirmed = true,
                             LockoutEnabled = false,
-                            NormalizedEmail = "ADMIN@LEARNHUP.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEC+LhLRdZF+zsBEOhYaMMLBVp7oCuHJIiQvc2TCvte8qxeZo1XFDrOiOYBTZqheH9w==",
+                            NormalizedEmail = "ADMIN@LEARNHUB.COM",
+                            PasswordHash = "AQAAAAIAAYagAAAAEObqELyw7jiC4pypQlki1bc5+O6VcIWkr2OD2TmsKfn9bxEt2msVVC9QE5uD+PQmsw==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "2036419f-bfe5-4974-a25d-d40d6e22cd60",
+                            SecurityStamp = "bbc44ba4-1b78-4071-8140-3c7acbce8b64",
                             TwoFactorEnabled = false,
-                            UserName = "admin@LearnHup.com"
+                            UserName = "admin@LearnHub.com"
                         });
                 });
 
@@ -364,26 +929,292 @@ namespace LearnHub.API.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Announcement", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("Announcements")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Instructor", "Instructor")
+                        .WithMany("Announcements")
+                        .HasForeignKey("InstructorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Instructor");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Assignment", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.AssignmentConfig", "AssignmentConfig")
+                        .WithMany()
+                        .HasForeignKey("AssignmentConfigId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("Assignments")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AssignmentConfig");
+
+                    b.Navigation("Course");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.AssignmentConfigTopic", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.AssignmentConfig", "AssignmentConfig")
+                        .WithMany("AssignmentConfigTopics")
+                        .HasForeignKey("AssignmentConfigId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Difficulty", "Difficulty")
+                        .WithMany("AssignmentConfigTopics")
+                        .HasForeignKey("DifficultyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Topic", "Topic")
+                        .WithMany()
+                        .HasForeignKey("TopicId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AssignmentConfig");
+
+                    b.Navigation("Difficulty");
+
+                    b.Navigation("Topic");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.AssignmentQuestion", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Assignment", "Assignment")
+                        .WithMany("AssignmentQuestions")
+                        .HasForeignKey("AssignmentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.QuestionBank", "Question")
+                        .WithMany("AssignmentQuestions")
+                        .HasForeignKey("QuestionId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Student", "Student")
+                        .WithMany("AssignmentQuestions")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Assignment");
+
+                    b.Navigation("Question");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Evaluation", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Assignment", "Assignment")
+                        .WithMany("Evaluations")
+                        .HasForeignKey("AssignmentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Student", "Student")
+                        .WithMany("Evaluations")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Assignment");
+
+                    b.Navigation("Student");
+                });
+
             modelBuilder.Entity("LearnHub.API.Models.Domain.Instructor", b =>
                 {
-                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "UserAccount")
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "Account")
                         .WithMany()
                         .HasForeignKey("AccountId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("UserAccount");
+                    b.Navigation("Account");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Material", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("Materials")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.MaterialType", "MaterialType")
+                        .WithMany("Materials")
+                        .HasForeignKey("MaterialTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("MaterialType");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Parent", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "Account")
+                        .WithMany()
+                        .HasForeignKey("AccountId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Account");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QBAnswers", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.QuestionBank", "Question")
+                        .WithMany("Answers")
+                        .HasForeignKey("QuestionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Question");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QuestionBank", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("Questions")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Difficulty", "Difficulty")
+                        .WithMany("Questions")
+                        .HasForeignKey("DifficultyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Instructor", "Instructor")
+                        .WithMany("Questions")
+                        .HasForeignKey("InstructorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.QuestionType", "QuestionType")
+                        .WithMany("Questions")
+                        .HasForeignKey("QuestionTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Topic", "Topic")
+                        .WithMany("Questions")
+                        .HasForeignKey("TopicId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Difficulty");
+
+                    b.Navigation("Instructor");
+
+                    b.Navigation("QuestionType");
+
+                    b.Navigation("Topic");
                 });
 
             modelBuilder.Entity("LearnHub.API.Models.Domain.Student", b =>
                 {
-                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "Account")
                         .WithMany()
                         .HasForeignKey("AccountId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("User");
+                    b.HasOne("LearnHub.API.Models.Domain.Parent", "Parent")
+                        .WithMany("Students")
+                        .HasForeignKey("ParentId");
+
+                    b.Navigation("Account");
+
+                    b.Navigation("Parent");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.StudentCourse", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Semester", "Semester")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("SemesterId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Student", "Student")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Semester");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Teach", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("Teaches")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Instructor", "Instructor")
+                        .WithMany("Teaches")
+                        .HasForeignKey("InstructorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LearnHub.API.Models.Domain.Semester", "Semester")
+                        .WithMany("Teaches")
+                        .HasForeignKey("SemesterId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Instructor");
+
+                    b.Navigation("Semester");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Topic", b =>
+                {
+                    b.HasOne("LearnHub.API.Models.Domain.Course", "Course")
+                        .WithMany("Topics")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -435,6 +1266,94 @@ namespace LearnHub.API.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Assignment", b =>
+                {
+                    b.Navigation("AssignmentQuestions");
+
+                    b.Navigation("Evaluations");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.AssignmentConfig", b =>
+                {
+                    b.Navigation("AssignmentConfigTopics");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Course", b =>
+                {
+                    b.Navigation("Announcements");
+
+                    b.Navigation("Assignments");
+
+                    b.Navigation("Materials");
+
+                    b.Navigation("Questions");
+
+                    b.Navigation("StudentCourses");
+
+                    b.Navigation("Teaches");
+
+                    b.Navigation("Topics");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Difficulty", b =>
+                {
+                    b.Navigation("AssignmentConfigTopics");
+
+                    b.Navigation("Questions");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Instructor", b =>
+                {
+                    b.Navigation("Announcements");
+
+                    b.Navigation("Questions");
+
+                    b.Navigation("Teaches");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.MaterialType", b =>
+                {
+                    b.Navigation("Materials");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Parent", b =>
+                {
+                    b.Navigation("Students");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QuestionBank", b =>
+                {
+                    b.Navigation("Answers");
+
+                    b.Navigation("AssignmentQuestions");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.QuestionType", b =>
+                {
+                    b.Navigation("Questions");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Semester", b =>
+                {
+                    b.Navigation("StudentCourses");
+
+                    b.Navigation("Teaches");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Student", b =>
+                {
+                    b.Navigation("AssignmentQuestions");
+
+                    b.Navigation("Evaluations");
+
+                    b.Navigation("StudentCourses");
+                });
+
+            modelBuilder.Entity("LearnHub.API.Models.Domain.Topic", b =>
+                {
+                    b.Navigation("Questions");
                 });
 #pragma warning restore 612, 618
         }

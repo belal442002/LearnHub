@@ -1,0 +1,882 @@
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.Development.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.staticwebassets.runtime.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.exe
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.deps.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.runtimeconfig.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\AutoMapper.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Core.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Identity.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Humanizer.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.CodeDom.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Convention.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Memory.Data.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Permissions.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.AssemblyReference.cache
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfoInputs.cache
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfo.cs
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.CoreCompileInputs.cache
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.build.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.development.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.build.LearnHub.API.props
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnHub.API.props
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LearnHub.API.props
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.pack.json
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\scopedcss\bundle\LearnHub.API.styles.css
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.63F65C27.Up2Date
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\refint\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.genruntimeconfig.cache
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\obj\Release\net8.0\ref\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\new valiadation\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.Development.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.staticwebassets.runtime.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.exe
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.deps.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.runtimeconfig.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\AutoMapper.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Core.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Identity.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Humanizer.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.CodeDom.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Convention.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Memory.Data.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Permissions.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.AssemblyReference.cache
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfoInputs.cache
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfo.cs
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.CoreCompileInputs.cache
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.build.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.development.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.build.LearnHub.API.props
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnHub.API.props
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LearnHub.API.props
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.pack.json
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\scopedcss\bundle\LearnHub.API.styles.css
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.63F65C27.Up2Date
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\refint\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.genruntimeconfig.cache
+D:\FCAI\Graduation Project\p\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\ref\LearnHub.API.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.Development.json
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.json
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.staticwebassets.runtime.json
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.exe
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.deps.json
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.runtimeconfig.json
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.pdb
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\AutoMapper.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Core.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Identity.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Humanizer.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.CodeDom.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Convention.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Drawing.Common.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Memory.Data.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Permissions.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.AssemblyReference.cache
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfoInputs.cache
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfo.cs
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.CoreCompileInputs.cache
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cs
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.build.json
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.development.json
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.build.LearnHub.API.props
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnHub.API.props
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LearnHub.API.props
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.pack.json
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\scopedcss\bundle\LearnHub.API.styles.css
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.63F65C27.Up2Date
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.dll
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\refint\LearnHub.API.dll
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.pdb
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.genruntimeconfig.cache
+D:\cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\ref\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.Development.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.staticwebassets.runtime.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.exe
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.deps.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.runtimeconfig.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\AutoMapper.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Core.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Identity.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Humanizer.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.CodeDom.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Convention.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Memory.Data.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Permissions.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.AssemblyReference.cache
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfoInputs.cache
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfo.cs
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.CoreCompileInputs.cache
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.build.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.development.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.build.LearnHub.API.props
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnHub.API.props
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LearnHub.API.props
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.pack.json
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\scopedcss\bundle\LearnHub.API.styles.css
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.63F65C27.Up2Date
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\refint\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.genruntimeconfig.cache
+D:\FCAI\Graduation Project\p\local\LearnHub-main\LearnHub.API\obj\Release\net8.0\ref\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.Development.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.staticwebassets.runtime.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.exe
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.deps.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.runtimeconfig.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\AutoMapper.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Core.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Identity.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Humanizer.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.CodeDom.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Convention.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Memory.Data.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Permissions.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.AssemblyReference.cache
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfoInputs.cache
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfo.cs
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.CoreCompileInputs.cache
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.build.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.development.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.build.LearnHub.API.props
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnHub.API.props
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LearnHub.API.props
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.pack.json
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\scopedcss\bundle\LearnHub.API.styles.css
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.63F65C27.Up2Date
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\refint\LearnHub.API.dll
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.pdb
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.genruntimeconfig.cache
+D:\FCAI\Graduation Project\p\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\ref\LearnHub.API.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.Development.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\appsettings.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.staticwebassets.runtime.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.exe
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.deps.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.runtimeconfig.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\LearnHub.API.pdb
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\AutoMapper.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Core.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Azure.Identity.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Humanizer.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Mono.TextTemplating.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Newtonsoft.Json.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.CodeDom.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Convention.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Hosting.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.Runtime.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Composition.TypedParts.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Drawing.Common.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Memory.Data.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Runtime.Caching.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Security.Permissions.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\System.Windows.Extensions.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.AssemblyReference.cache
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfoInputs.cache
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.AssemblyInfo.cs
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.csproj.CoreCompileInputs.cache
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cs
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.MvcApplicationPartsAssemblyInfo.cache
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.build.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.development.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.LearnHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.build.LearnHub.API.props
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnHub.API.props
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LearnHub.API.props
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\staticwebassets.pack.json
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\scopedcss\bundle\LearnHub.API.styles.css
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.63F65C27.Up2Date
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\refint\LearnHub.API.dll
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.pdb
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\LearnHub.API.genruntimeconfig.cache
+E:\LearnHub\V5\local and cloud\local and cloud\LearnHub-main\LearnHub.API\obj\Release\net8.0\ref\LearnHub.API.dll

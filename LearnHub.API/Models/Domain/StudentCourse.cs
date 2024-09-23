@@ -18,6 +18,5 @@ namespace LearnHub.API.Models.Domain
         public virtual Course Course { get; set; }
         public virtual Student Student { get; set; }
         public virtual Semester Semester { get; set; }
-
     }
 }

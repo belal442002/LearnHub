@@ -8,6 +8,7 @@ namespace LearnHub.API.Models.Domain
     {
         [Key]
         public String Id { get; set; }
+        public string? CourseCode { get; set; } = Guid.NewGuid().ToString();
         public String Name { get; set; }
         public String? Description { get; set; }
 
@@ -15,6 +16,11 @@ namespace LearnHub.API.Models.Domain
         public virtual ICollection<Topic> Topics { get; set; }
         public virtual ICollection<Teach> Teaches { get; set; }
         public virtual ICollection<StudentCourse> StudentCourses { get; set; }
+        public virtual ICollection<Material> Materials { get; set; }
+        public virtual ICollection<Announcement> Announcements { get; set; }
+        public virtual ICollection<QuestionBank> Questions { get; set; }
+        public virtual ICollection<Assignment> Assignments { get; set; } 
+        
 
     }
 }
